@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <item
+        android:id="@+id/sortByName"
+        android:title="@string/sort_by_name"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/sortBySize"
+        android:title="@string/sort_by_size"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/text"
+        android:title="Sort"
+        app:showAsAction="always"/>
+</menu>

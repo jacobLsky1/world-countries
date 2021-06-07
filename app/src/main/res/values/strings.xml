@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">World Countries</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_size">Sort by size</string>
+</resources>
